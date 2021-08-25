@@ -1,0 +1,14 @@
+D:\Files-All\OneDrive\DevCodeCamp\Projects\Week 009\Day 042\PracticeProject\PracticeProject\PracticeProject\bin\Debug\netcoreapp3.1\PracticeProject.exe
+D:\Files-All\OneDrive\DevCodeCamp\Projects\Week 009\Day 042\PracticeProject\PracticeProject\PracticeProject\bin\Debug\netcoreapp3.1\PracticeProject.deps.json
+D:\Files-All\OneDrive\DevCodeCamp\Projects\Week 009\Day 042\PracticeProject\PracticeProject\PracticeProject\bin\Debug\netcoreapp3.1\PracticeProject.runtimeconfig.json
+D:\Files-All\OneDrive\DevCodeCamp\Projects\Week 009\Day 042\PracticeProject\PracticeProject\PracticeProject\bin\Debug\netcoreapp3.1\PracticeProject.runtimeconfig.dev.json
+D:\Files-All\OneDrive\DevCodeCamp\Projects\Week 009\Day 042\PracticeProject\PracticeProject\PracticeProject\bin\Debug\netcoreapp3.1\PracticeProject.dll
+D:\Files-All\OneDrive\DevCodeCamp\Projects\Week 009\Day 042\PracticeProject\PracticeProject\PracticeProject\bin\Debug\netcoreapp3.1\PracticeProject.pdb
+D:\Files-All\OneDrive\DevCodeCamp\Projects\Week 009\Day 042\PracticeProject\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.csproj.AssemblyReference.cache
+D:\Files-All\OneDrive\DevCodeCamp\Projects\Week 009\Day 042\PracticeProject\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files-All\OneDrive\DevCodeCamp\Projects\Week 009\Day 042\PracticeProject\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.AssemblyInfoInputs.cache
+D:\Files-All\OneDrive\DevCodeCamp\Projects\Week 009\Day 042\PracticeProject\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.AssemblyInfo.cs
+D:\Files-All\OneDrive\DevCodeCamp\Projects\Week 009\Day 042\PracticeProject\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.csproj.CoreCompileInputs.cache
+D:\Files-All\OneDrive\DevCodeCamp\Projects\Week 009\Day 042\PracticeProject\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.dll
+D:\Files-All\OneDrive\DevCodeCamp\Projects\Week 009\Day 042\PracticeProject\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.pdb
+D:\Files-All\OneDrive\DevCodeCamp\Projects\Week 009\Day 042\PracticeProject\PracticeProject\PracticeProject\obj\Debug\netcoreapp3.1\PracticeProject.genruntimeconfig.cache
